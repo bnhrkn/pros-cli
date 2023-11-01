@@ -9,7 +9,7 @@ semantic_version
 colorama
 pyzmq
 cobs
-scan-build==2.0.13
+scan-build
 sentry-sdk
 observable
 pypng==0.0.20
